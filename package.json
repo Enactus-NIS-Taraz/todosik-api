@@ -2,7 +2,7 @@
   "name": "todosik-api",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "Backend API to Todosik project",
   "scripts": {
     "dev": "strapi develop",
     "start": "strapi start",
